@@ -1,0 +1,9 @@
+# Ignore node_modules from both sides
+client/node_modules/
+server/node_modules/
+
+# Ignore environment files
+client/.env
+server/.env
+
+.DS_Store
