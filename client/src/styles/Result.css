@@ -1,3 +1,5 @@
+
+
 .flex-center{
     display: flex;
     justify-content: center;    
@@ -47,4 +49,3 @@ table {
 .table-header > tr > td{
     border: 1px solid #faff5a;   
 }
-
